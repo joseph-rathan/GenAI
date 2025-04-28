@@ -1,0 +1,10 @@
+langchain
+langchain-community
+langgraph
+streamlit
+google-generativeai
+langchain_google_genai
+langchain_google_vertexai
+huggingface_hub
+python-dotenv
+langchain-cli
